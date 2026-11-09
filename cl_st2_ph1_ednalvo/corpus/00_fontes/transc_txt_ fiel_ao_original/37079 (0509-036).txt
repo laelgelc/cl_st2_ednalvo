@@ -1,0 +1,11 @@
+Título {FO: Título} ?
+
+Desde a sua existência, o ser humano vem utilizando os elementos naturais para sua sobrevivência {FO: sobrevivência}, como fonte de alimentação {FO: alimentação}, transporte, renda, energia e outros meios que garantem benefício {FO: benefício} aos mesmos, porém {FO: porém}, nem sempre são utilizados de forma adequada.
+
+A utilização da água, da terra, do ar, do fogo são exemplos, respectivamente, de meios para a produção {FO: produção} de energia elétrica {FO: elétrica} através {FO: através} de: usinas hidrelétricas {FO: hidrelétricas}, termelétricas {FO: termelétricas}, eólicas {FO: eólicas} e da queima de combustíveis fósseis, onde uns são considerados limpos e outros prejudiciais ao meio ambiente.
+
+Além {FO: Além} das fontes de energia, esses recursos são muito utilizados para gerar alimentos, meios de transporte, sejam eles aquáticos {FO: aquáticos}, terrestres ou aéreos {FO: aéreos} e, também {FO: também}, para fins lucrativos como a obtenção {FO: obtenção} de renda para o desenvolvimento econômico {FO: econômico} do país {FO: país}.
+
+A maior parte dos problemas ocorridos no Brasil, estão fortemente ligados à {FO: à} geração de renda ou energia, como a seca em São Paulo, o rompimento das barragens em Mariana e o derramamento de óleo e a contaminação {FO: contaminação} das águas {FO: águas} de Barcarena, o que evidencia o descuido do ser humano com os recursos naturais.
+
+Contudo, o maior problema do ser humano é saber assimilar os benefícios {FO: benefícios} adquiridos e as consequências {FO: consequências} advindas a partir da utilização {FO: utilização} desses recursos. Dessa forma, qualquer ação {FO: ação} realizada deveria ser mais fiscalizada, para que haja a preservação {FO: preservação} desses recursos, sem prejudicar as gerações {FO: gerações} futuras.
